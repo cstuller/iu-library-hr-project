@@ -4,6 +4,8 @@ PHP code for the Temporary Employee Application project for the IU Libraries
 This is the code for the nearly complete project for IU Libraries HR.
 Basic Functionality is in place, all that is missing is archival features.
 
+This code is written in PHP with the Rivet framework. With the restrictions put in place by WebServe, I was unable to use a PHP framework such as Laravel for this project, nor was I able to build it up with Django.
+
 Setting up the Database:
 
 Run the SQL statements in these files, in the SQL folder in this order:
