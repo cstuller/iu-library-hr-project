@@ -1,0 +1,21 @@
+/* input[type=checkbox]{
+  opacity: 1;
+  position: static;
+  -ms-transform: scale(2);
+  -moz-transform: scale(2);
+  -webkit-transform: scale(2);
+  -o-transform: scale(2);
+} */
+
+.clickable-row:hover{
+  background-color: #ffff99;
+  cursor: pointer;
+}
+
+.forceReturns{
+  white-space: pre-line;
+}
+
+#error {
+  color: yellow;
+}
